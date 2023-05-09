@@ -1,0 +1,4 @@
+O trabalho de otimização está descrito no notebook ECCS - Escalonamento num Call Center de Saúde. A modelação foi feita para conseguir as especificidades do serviço saúde 24, mas é facilmente generalizado. A modelação foi feita através de abordagem exaustiva dos modelos de cobertura. Teve resultados extremamente melhores do que o modelo que tinha sido implementado anteriormente. A utilização do python foi crucial para definir as funções auxiliares.   
+
+
+Clustering Sismos - Foi um trabalho que fiz para a disciplina de seminário durante o mestrado. Tive a ideia de utilizar o DBSCAN sobre uma função de distância definida ad-hoc que tinha em consideração a localização geográfica do epicentro, e a intensidade e o tempo entre sismos. 
